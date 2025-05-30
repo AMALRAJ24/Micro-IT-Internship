@@ -1,4 +1,4 @@
-# 👋 Welcome to the Micro_IT_Portfolio_Project!
+# 👋 Welcome to the Micro IT Internship!
 This repository contains my personal IT portfolio showcasing various 💻 projects in software development and IT.
 
 📌 About the Project
