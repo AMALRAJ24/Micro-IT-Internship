@@ -3,8 +3,29 @@
 This repository contains a collection of small but impactful IT projects created to demonstrate basic skills in web development and Python GUI programming. Each project focuses on practical application and beginner-friendly implementation.
 
 ## 📁 Projects
+## 1. 🌐 Personal Portfolio Website
+Description:
+A responsive personal portfolio website built using HTML and CSS. It showcases your skills, projects, and contact information in a clean, modern layout.
 
-## 🔐 Strong Password Generator & Manager (Python GUI)
+### Features:
+
+- Homepage with welcome section
+- About Me section
+- Projects section with links
+- Contact form (static)
+- Fully responsive design
+
+### Tech Stack:
+
+- HTML5
+- CSS3
+
+### How to Run:
+
+- Download or clone the repo.
+- Open index.html in any modern browser.  
+##
+## 2. 🔐 Strong Password Generator & Manager (Python GUI)
 
 ### Description:
 A GUI application built using Tkinter that allows users to generate strong, random passwords and store them securely in a local file.
