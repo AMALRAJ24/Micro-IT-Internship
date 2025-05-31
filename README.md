@@ -53,7 +53,7 @@ A GUI application built using Tkinter that allows users to generate strong, rand
 - Run the script:
 
    ```bash
-    python password-generator.py
+   python password-generator.py
 
 ## 🛠 Future Enhancements
 - Add JavaScript to portfolio for interactivity
